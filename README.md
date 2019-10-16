@@ -4,6 +4,11 @@
 * Python 3.6 oder höher (da f-Strings benutzt werden)
 * pygame
 
+**Features:**
+* minimalistisches GUI-System
+* Steuerung über Maus oder Tastatur
+* Computergegner
+
 **Das Spiel starten:**
 
 Das Hauptprogramm liegt in `main.py`. Das Spiel lässt sich also beispielsweise starten durch `python main.py`.
