@@ -1,0 +1,2 @@
+Das Spiel spielt zufällige Musikstücke aus diesem Ordner ab, wenn mindestens zwei Dateien im *.ogg-Format vorhanden sind.
+Die Musik, die dem Spiel beiliegt, stammt von https://opengameart.org/content/cc0-retro-music.
