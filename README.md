@@ -16,6 +16,7 @@ Das Hauptprogramm liegt in `main.py`. Das Spiel lässt sich also beispielsweise 
 **Credits where credit's due:**
 * Die Sound-Effekte stammen von: https://opengameart.org/content/512-sound-effects-8-bit-style
 * Die Musik stammt von: https://opengameart.org/content/cc0-retro-music
+* Die verwendete Schriftart stammt von: https://www.fontspace.com/codeman38/press-start-2p (Codeman38)
 
 **Screenshots:**
 ![Screenshot](screenshots/screenshot1.png?raw=true "Screenshot")
